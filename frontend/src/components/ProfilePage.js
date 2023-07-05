@@ -9,7 +9,7 @@ import SubmitReport from "./SubmitReport";
 export default function Profile(){
     return (
         <>
-        <Navbar/>
+        
         <div className="row">
             <div className="col col-4">
                 <AvatarSec/>
