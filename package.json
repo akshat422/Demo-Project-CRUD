@@ -1,0 +1,29 @@
+{
+  "name": "youngistaan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-rawat/youngistaan.git"
+  },
+  "author": "MACT Boy's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsh-rawat/youngistaan/issues"
+  },
+  "homepage": "https://github.com/adarsh-rawat/youngistaan#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1",
+    "validator": "^13.9.0"
+  }
+}
