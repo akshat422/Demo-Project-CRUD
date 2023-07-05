@@ -1,6 +1,9 @@
 import React from "react";
 
 export default function VerifySec(props){
+    const data={
+        
+    }
     return (
         <>
         <h6 class="bg-light mt-5 p-2 border-top border-bottom">{props.heading}</h6>
